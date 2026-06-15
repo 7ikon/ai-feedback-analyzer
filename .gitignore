@@ -1,0 +1,8 @@
+node_modules
+.next
+.npm-cache
+*.tsbuildinfo
+dev-server.log
+dev-server.err
+node-dev.log
+node-dev.err
